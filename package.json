@@ -1,0 +1,25 @@
+{
+  "name": "vue2-tinymce",
+  "version": "0.0.1",
+  "description": "A tinymce editor UI component for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://g9308370@github.com/hchstera/vue2-tinymce.git"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "tinyMCE",
+    "editor"
+  ],
+  "author": "hchstera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hchstera/vue2-tinymce/issues"
+  },
+  "homepage": "https://github.com/hchstera/vue2-tinymce#readme"
+}
