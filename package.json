@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://g9308370@github.com/hchstera/vue2-tinymce.git"
   },
+  "dependencies":{
+    "vue": "^2.0.1"
+  },
+  "devDependencies": {
+    "vue-loader": "^9.7.0",
+    "webpack": "^2.1.0-beta.25"
+  },
   "keywords": [
     "vue",
     "vue.js",

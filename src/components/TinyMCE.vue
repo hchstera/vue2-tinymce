@@ -1,13 +1,13 @@
 <template>
     <div>
-        I'm an example component!
+        <textarea></textarea>
     </div>
 </template>
 
 <script>
-    export default {
-        mounted() {
-            console.log('Eample Component ready.')
-        }
+export default {
+    mounted() {
+        console.log('TinyMCE component ready.')
     }
+}
 </script>

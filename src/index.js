@@ -1,7 +1,6 @@
 // if(typeof tinymce === "undefined")
 //     throw "tinymce is undefined";
-
-var TinyMCE = require('./components/TinyMCE.vue');
-
-
-export default TinyMCE;
+window.VueTinyMCE = {};
+VueTinyMCE.install = function (Vue) {
+    Vue.component('vue2-tinymce', require('./components/TinyMCE.vue'));
+}
